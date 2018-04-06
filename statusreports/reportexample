@@ -1,0 +1,15 @@
+Sample template for weekly status reports
+
+Week of [month, day, year]
+
+Significant Issues and PRs
+  -Was something significant merged in the last week?
+  -Was a PR submitted for a significant change?
+  -Is there new/dynamic conversation happening about a PR that readers should look at?
+
+Mailing List Discussions
+  -Discussions happening that readers should look at (summarize and point to ML archives)
+
+Community Updates
+  -Is someone presenting a talk?
+  -Noteworthy Kata news? (ie "Became an OCI member this week)
